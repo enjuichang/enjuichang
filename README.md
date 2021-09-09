@@ -23,7 +23,10 @@ Here are some ideas to get you started:
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
+<!--  Github Stats
 [![Enjui's GitHub stats](https://github-readme-stats.vercel.app/api?username=enjuichang)](https://github.com/enjuichang/github-readme-stats)
+-->
+
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
