@@ -39,8 +39,8 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: /twitter/url?url=https%3A%2F%2Fshields.io
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://leadership.ng/wp-content/uploads/2020/09/Twitter-Logo.png
+[2.2]: https://www.clipartmax.com/png/middle/97-974798_%E3%80%8Clinkedin-logo%E3%80%8D%E3%81%AE%E7%94%BB%E5%83%8F%E6%A4%9C%E7%B4%A2%E7%B5%90%E6%9E%9C-linkedin-symbol-for-word.png
 
 <!-- Links to your social media accounts -->
 
