@@ -39,9 +39,8 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: https://leadership.ng/wp-content/uploads/2020/09/Twitter-Logo.png
-[2.2]: https://www.clipartmax.com/png/middle/97-974798_%E3%80%8Clinkedin-logo%E3%80%8D%E3%81%AE%E7%94%BB%E5%83%8F%E6%A4%9C%E7%B4%A2%E7%B5%90%E6%9E%9C-linkedin-symbol-for-word.png
-
+[1.2]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+[2.2]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/7t_eric
