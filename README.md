@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 You can find me here:
 
 [![Twitter][1.2]][1]
- [![LinkedIn][2.2]][2].
+ [![LinkedIn][2.2]][2]
 
 <!--  Github Stats
 [![Enjui's GitHub stats](https://github-readme-stats.vercel.app/api?username=enjuichang)](https://github.com/enjuichang/github-readme-stats)
