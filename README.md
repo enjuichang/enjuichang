@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hello, all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - Student @ Minerva University, majoring in CS (Data Science & Statistics) and NS (Earth's Systems).
-- 021 project intern @ Droidtown Linguistic Tech Co.
+- 2021 project intern @ Droidtown Linguistic Tech Co.
 - 2021 & 2020 research intern @ Academia Sinica
 
 You can find me here:
