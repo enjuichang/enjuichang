@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 # Hello, all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- Student @ Minerva University, majoring in CS (Data Science & Statistics) and NS (Earth's Systems).
+- Student @ Minerva University, majoring in CS (Data Science & Statistics) and NS (Earth's Systems)
+- [Towards Data Science](https://medium.com/@enjui.chang) Author
 - 2022 NLP intern @ Brain Technologies
 - 2021 project intern @ Droidtown Linguistic Tech Co.
 - 2021 & 2020 research intern @ Academia Sinica
