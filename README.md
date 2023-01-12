@@ -41,6 +41,9 @@ You can find me here:
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2bbc8a)
+
 
 
 
