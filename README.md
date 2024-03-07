@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hello, all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- NLP Engineer @ Brain Technologies
+- Former NLP Engineer @ Brain Technologies
 - Former Student @ Minerva University, majored in CS (Data Science & Statistics) and NS (Earth's Systems)
 - [Towards Data Science](https://medium.com/@enjui.chang) Author
 - 2022 NLP intern @ Brain Technologies
