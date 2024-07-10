@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 # Hello, all! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+- Senior NLP Engineer @ Clearbrief.ai
+- Former Software Engineer @ Adherity
 - Former NLP Engineer @ Brain Technologies
 - Former Student @ Minerva University, majored in CS (Data Science & Statistics) and NS (Earth's Systems)
 - [Towards Data Science](https://medium.com/@enjui.chang) Author
@@ -26,7 +28,6 @@ Here are some ideas to get you started:
 
 You can find me here:
 
-[![Twitter][1.2]][1]
  [![LinkedIn][2.2]][2]
 
 ##  Github Stats
